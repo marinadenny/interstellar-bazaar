@@ -1,0 +1,2 @@
+npm install express sequelize pg pg-hstore dotenv socket.io
+npm install --save-dev nodemon
